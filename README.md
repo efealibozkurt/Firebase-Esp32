@@ -1,1 +1,1 @@
-# Firebase-Esp32
+# Esp32 veya Esp8266 ile firebase kullanımı. 
